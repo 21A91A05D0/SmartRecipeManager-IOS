@@ -112,6 +112,51 @@ The app supports **local recipe management**, **API-based recipe inspiration**, 
 - **Widget-ready architecture**
 - **MVVM architecture**
 
+
+## 👨‍💻 Author
+
+**Praveen Pothan**  
+iOS & AI Enthusiast | SwiftUI Developer | Aspiring Data Scientist  
+
+This project was built as a real-world SwiftUI application to demonstrate clean iOS architecture, modern SwiftUI patterns, and production-ready feature implementation.  
+
+The app showcases hands-on experience with:
+- SwiftUI & MVVM architecture  
+- Core Data persistence  
+- API integration  
+- Image handling and storage  
+- Scalable UI and state management  
+
+📍 India  
+
+---
+
+## 📄 License
+
+**MIT License**
+
+Copyright © 2026 Praveen Pothan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to:
+
+- Use  
+- Copy  
+- Modify  
+- Merge  
+- Publish  
+- Distribute  
+- Sublicense  
+- And/or sell copies of the Software  
+
+The Software is provided **“as is”**, without warranty of any kind.
+
+This project is intended for:
+- Learning purposes  
+- Portfolio and educational use  
+- Personal experimentation  
+
+
+
 ---
 
 ## 📂 Project Structure
@@ -163,51 +208,7 @@ SmartRecipeManager
 │   └── ReusableViews.swift
 │
 └── Resources
-    └── Assets.xcassets
-
-## 👨‍💻 Author
-
-**Praveen Pothan**  
-iOS & AI Enthusiast | SwiftUI Developer | Aspiring Data Scientist  
-
-This project was built as a real-world SwiftUI application to demonstrate clean iOS architecture, modern SwiftUI patterns, and production-ready feature implementation.  
-
-The app showcases hands-on experience with:
-- SwiftUI & MVVM architecture  
-- Core Data persistence  
-- API integration  
-- Image handling and storage  
-- Scalable UI and state management  
-
-📍 India  
-
----
-
-## 📄 License
-
-**MIT License**
-
-Copyright © 2026 Praveen Pothan
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to:
-
-- Use  
-- Copy  
-- Modify  
-- Merge  
-- Publish  
-- Distribute  
-- Sublicense  
-- And/or sell copies of the Software  
-
-The Software is provided **“as is”**, without warranty of any kind.
-
-This project is intended for:
-- Learning purposes  
-- Portfolio and educational use  
-- Personal experimentation  
+    └── Assets.xcassets  
 
 
-
-## Feel free to ⭐ the repository if you find it useful!
 
