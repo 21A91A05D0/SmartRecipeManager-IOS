@@ -165,60 +165,49 @@ SmartRecipeManager
 └── Resources
     └── Assets.xcassets
 
+## 👨‍💻 Author
 
+**Praveen Pothan**  
+iOS & AI Enthusiast | SwiftUI Developer | Aspiring Data Scientist  
 
-👨‍💻 Author
+This project was built as a real-world SwiftUI application to demonstrate clean iOS architecture, modern SwiftUI patterns, and production-ready feature implementation.  
 
-Praveen Pothan
-iOS & AI Enthusiast | SwiftUI Developer | Aspiring Data Scientist
+The app showcases hands-on experience with:
+- SwiftUI & MVVM architecture  
+- Core Data persistence  
+- API integration  
+- Image handling and storage  
+- Scalable UI and state management  
 
-This project was built as a real-world SwiftUI application to demonstrate:
+📍 India  
 
-Clean iOS architecture (MVVM)
+---
 
-Persistent data handling with Core Data
+## 📄 License
 
-Modern SwiftUI patterns
-
-Scalable, production-ready feature design
-
-The app reflects hands-on experience in building end-to-end mobile applications, from authentication flows to data persistence and UI/UX polish.
-
-📍 India
-
-📄 License
-
-MIT License
+**MIT License**
 
 Copyright © 2026 Praveen Pothan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to:
 
-Use
+- Use  
+- Copy  
+- Modify  
+- Merge  
+- Publish  
+- Distribute  
+- Sublicense  
+- And/or sell copies of the Software  
 
-Copy
-
-Modify
-
-Merge
-
-Publish
-
-Distribute
-
-Sublicense
-
-And/or sell copies of the Software
-
-The Software is provided “as is”, without warranty of any kind.
+The Software is provided **“as is”**, without warranty of any kind.
 
 This project is intended for:
+- Learning purposes  
+- Portfolio and educational use  
+- Personal experimentation  
 
-Learning
 
-Portfolio demonstration
 
-Non-commercial and personal use
-
-Feel free to ⭐ the repository if you find it useful!
+## Feel free to ⭐ the repository if you find it useful!
 
